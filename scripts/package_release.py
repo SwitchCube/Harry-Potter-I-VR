@@ -6,7 +6,7 @@ from pathlib import Path
 import zipfile
 from project_paths import ROOT, inside
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 
 def sha(data):
@@ -16,7 +16,7 @@ def sha(data):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--build', required=True)
-    parser.add_argument('--output', default='dist/HP1VR-0.1.0.zip')
+    parser.add_argument('--output', default='dist/HP1VR-0.1.1.zip')
     args = parser.parse_args()
     build = inside(args.build)
     record = json.loads((build / 'build.json').read_text())
@@ -69,6 +69,8 @@ def main():
                 data = b'python313.zip\n.\n../scripts\n'
             add('python/' + name, data)
     for destination, source in (
+        ('LICENSE', 'LICENSE'),
+        ('LICENSING.md', 'LICENSING.md'),
         ('Launcher.ps1', 'release/Launcher.ps1'),
         ('defaults/vr-preferences.ini', 'release/vr-preferences.ini'),
         ('README-DE.txt', 'release/README-DE.txt'),
@@ -77,6 +79,12 @@ def main():
         ('licenses/OpenVR-LICENSE.txt', 'external/openvr/LICENSE'),
         ('licenses/MinHook-LICENSE.txt', 'external/minhook/LICENSE.txt')):
         add(destination, inside(source).read_bytes())
+    for name, path in (
+        ('Zig.txt', 'LICENSE'), ('LLVM-libcxx.txt', 'lib/libcxx/LICENSE.TXT'),
+        ('LLVM-libcxxabi.txt', 'lib/libcxxabi/LICENSE.TXT'),
+        ('LLVM-libunwind.txt', 'lib/libunwind/LICENSE.TXT'),
+        ('MinGW.txt', 'lib/libc/mingw/COPYING')):
+        add('licenses/' + name, inside('tools/zig-x86_64-windows-0.15.2/' + path).read_bytes())
     manifest = {'version': VERSION, 'files': {n: sha(d) for n, d in sorted(payload.items())},
                 'runtime_files': sorted(runtime), 'original_game_included': False}
     add('manifest.json', (json.dumps(manifest, indent=2) + '\n').encode())

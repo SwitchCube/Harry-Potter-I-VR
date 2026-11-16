@@ -26,3 +26,12 @@ not require a voice service or an API key.
 No original game files are distributed. A supported, separately owned game
 installation is required. Game names and original assets remain the property
 of their respective rights holders. This is an unofficial fan project.
+
+Original mod code: MIT License, Copyright (c) 2026 SwitchCube.
+See LICENSE and LICENSING.md for the scope; third-party and audio rights
+are not relicensed by this notice.
+
+Native runtime support compiled with Zig 0.15.2, LLVM libc++/libc++abi/
+libunwind and MinGW-w64: licenses/Zig.txt, LLVM-*.txt and MinGW.txt.
+These notices cover bundled or statically linked runtime components;
+the compiler itself is not shipped.

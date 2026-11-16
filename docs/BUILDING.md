@@ -22,7 +22,7 @@ if ($LASTEXITCODE) { throw 'Python tests failed' }
 python -B scripts/test_native.py
 if ($LASTEXITCODE) { throw 'Native tests failed' }
 $build = (Get-Content config/last-build.json -Raw | ConvertFrom-Json).executable | Split-Path -Parent
-python -B scripts/package_release.py --build $build --output dist/HP1VR-0.1.0.zip
+python -B scripts/package_release.py --build $build --output dist/HP1VR-0.1.1.zip
 if ($LASTEXITCODE) { throw 'Packaging failed' }
 ```
 

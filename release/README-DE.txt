@@ -1,4 +1,4 @@
-Harry Potter I VR 0.1.0 - Erste oeffentliche Testversion
+Harry Potter I VR 0.1.1 - Erste oeffentliche Testversion
 
 Bei der Entwicklung kam KI zum Einsatz, auch fuer kuenstliche Lernhinweise.
 
@@ -38,5 +38,5 @@ Eigene synthetische Tutorial-Pakete sind enthalten.
 Quellcode und Beschreibung:
 https://github.com/SwitchCube/Harry-Potter-I-VR
 Fremdlizenzen: THIRD-PARTY.txt, licenses/ und python/LICENSE.txt.
-Zunaechst keine eigene Open-Source-Lizenz fuer das Gesamtprojekt vergeben.
+Eigener Mod-Code: MIT-Lizenz (LICENSE). Geltungsbereich: LICENSING.md.
 Inoffizielles Fanprojekt ohne Verbindung zu den Rechteinhabern.

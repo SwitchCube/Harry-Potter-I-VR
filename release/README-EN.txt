@@ -1,4 +1,4 @@
-Harry Potter I VR 0.1.0 - First public preview
+Harry Potter I VR 0.1.1 - First public preview
 
 AI was used during development, including synthetic tutorial speech.
 
@@ -37,5 +37,5 @@ logs or original voice recordings. Synthetic tutorial packages are included.
 Source and description:
 https://github.com/SwitchCube/Harry-Potter-I-VR
 Third-party licenses: THIRD-PARTY.txt, licenses/ and python/LICENSE.txt.
-No project-wide open-source license has been granted at this time.
+Original mod code: MIT License (LICENSE). Scope: LICENSING.md.
 Unofficial fan project, not affiliated with the game's rights holders.

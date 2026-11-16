@@ -2,6 +2,8 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+!/LICENSE
+!/LICENSING.md
 !/Start-Spiel.cmd
 !/Stop-VR.cmd
 !/Test-VR.cmd
