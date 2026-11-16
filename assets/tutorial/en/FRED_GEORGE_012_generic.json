@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_012",
+  "variant": "generic",
+  "text": "Run towards the ledge and press the highlighted jump button to jump across. If you fall, you can climb back up and try again.",
+  "seconds": 6.4,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "7742e145776024cf9c1e13a8afd3d61885765b9005fc76fd718f8c0f654bf00b"
+}

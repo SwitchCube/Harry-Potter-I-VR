@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "language": "int",
+  "voice_model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "description": "Local synthetic English VR instructions, using installed character recordings as voice references. Not original actor recordings.",
+  "labels": {
+    "specific": {
+      "cast": "right trigger",
+      "jump": "A button on your right controller",
+      "move": "left stick",
+      "show_health": "lower grip button on your left controller"
+    },
+    "generic": {
+      "cast": "highlighted casting button",
+      "jump": "highlighted jump button",
+      "move": "highlighted stick",
+      "show_health": "highlighted inventory button"
+    }
+  },
+  "lines": [
+    {
+      "id": "FLITWICK_015",
+      "actions": [
+        "move"
+      ],
+      "text": "Use Wingardium Leviosa on this statue. Move it onto the large plate with the {move}. Hurry!"
+    },
+    {
+      "id": "flitwick_chall_6",
+      "actions": [
+        "move"
+      ],
+      "text": "Move the floating statue onto the plate with the {move}."
+    },
+    {
+      "id": "flitwick_lesson_40",
+      "actions": [
+        "cast"
+      ],
+      "text": "Watch the Wingardium Leviosa symbol carefully as I demonstrate it. When I finish, hold the {cast} and trace the symbol with your controller. Release the button when you are finished."
+    },
+    {
+      "id": "FRED_GEORGE_009",
+      "actions": [
+        "jump"
+      ],
+      "text": "Run towards the ledge and press the {jump} to jump across."
+    },
+    {
+      "id": "FRED_GEORGE_012",
+      "actions": [
+        "jump"
+      ],
+      "text": "Run towards the ledge and press the {jump} to jump across. If you fall, you can climb back up and try again."
+    },
+    {
+      "id": "fred_george_new_128",
+      "actions": [
+        "jump"
+      ],
+      "text": "To jump, press the {jump}. It is highlighted on your controller."
+    },
+    {
+      "id": "hermione_lesson_45",
+      "actions": [
+        "cast"
+      ],
+      "text": "This is the symbol for the Alohomora spell. When I finish, hold the {cast} and trace the symbol with your controller. Release the button when you are finished."
+    },
+    {
+      "id": "hootch_new_18",
+      "actions": [
+        "move"
+      ],
+      "text": "Steer your broom with the {move}. Move it left or right to turn, forwards to climb, and backwards to descend."
+    },
+    {
+      "id": "hootch_new_19",
+      "actions": [
+        "cast",
+        "jump"
+      ],
+      "text": "Hold the {cast} to accelerate. Hold the {jump} to fly slowly and precisely."
+    },
+    {
+      "id": "hootch_new_20",
+      "actions": [
+        "move"
+      ],
+      "text": "Release the {move} to return to level flight. You can look around freely."
+    },
+    {
+      "id": "QUIRRELL_015",
+      "actions": [
+        "cast"
+      ],
+      "text": "Hold the {cast} and aim your wand at the target with your controller. Release the button to cast the spell."
+    },
+    {
+      "id": "QUIRRELL_038",
+      "actions": [
+        "cast"
+      ],
+      "text": "Hold the {cast} and aim your wand at the target with your controller. Release the button to cast the spell. You can practise on this gargoyle."
+    },
+    {
+      "id": "quirrell_lesson_98",
+      "actions": [
+        "cast"
+      ],
+      "text": "Watch my wand. Then hold the {cast} and trace the symbol with your controller. Release the button when you are finished."
+    },
+    {
+      "id": "quirrell_lesson_99",
+      "actions": [
+        "cast"
+      ],
+      "text": "This is the symbol for the Flipendo spell. Hold the {cast} and trace the symbol with your controller. Then release the button."
+    },
+    {
+      "id": "sprout_new_72",
+      "actions": [
+        "cast"
+      ],
+      "text": "Watch the correct Incendio symbol carefully. Hold the {cast} and trace the symbol with your controller. Release the button when you are finished."
+    },
+    {
+      "id": "fred_george_new_112",
+      "actions": [
+        "show_health"
+      ],
+      "text": "We need twenty-five beans, Harry. Come back when you have found them all. Hold the {show_health} to see your inventory at your left hand. It also shows how many beans you have collected."
+    }
+  ]
+}

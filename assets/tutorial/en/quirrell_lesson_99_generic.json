@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_99",
+  "variant": "generic",
+  "text": "This is the symbol for the Flipendo spell. Hold the highlighted casting button and trace the symbol with your controller. Then release the button.",
+  "seconds": 11.2,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "8dbb76af6847eb2d9788465c27ac1222c4726b24a92ee68a68ca7c49db696af5"
+}

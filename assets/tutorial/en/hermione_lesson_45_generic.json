@@ -1,0 +1,10 @@
+{
+  "id": "hermione_lesson_45",
+  "variant": "generic",
+  "text": "This is the symbol for the Alohomora spell. When I finish, hold the highlighted casting button and trace the symbol with your controller. Release the button when you are finished.",
+  "seconds": 9.840041666666666,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "0dd6490c60b8028230c547c74e3fa3ecd20fab848cd9943f82b0c57b1b1b7ee8"
+}

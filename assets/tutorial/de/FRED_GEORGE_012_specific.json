@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_012",
+  "variant": "specific",
+  "text": "Laufe auf die Kante zu und drücke die Taste A am rechten Controller, um hinüberzuspringen. Wenn du runterfällst, kannst du wieder nach oben klettern und es erneut versuchen.",
+  "seconds": 8.24,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "6c719a141dee9d4eeb36c2b85a1c88ca00205f50f36ff7bd0506151a489b19d9"
+}

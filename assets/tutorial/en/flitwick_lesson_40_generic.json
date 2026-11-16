@@ -1,0 +1,10 @@
+{
+  "id": "flitwick_lesson_40",
+  "variant": "generic",
+  "text": "Watch the Wingardium Leviosa symbol carefully as I demonstrate it. When I finish, hold the highlighted casting button and trace the symbol with your controller. Release the button when you are finished.",
+  "seconds": 11.92,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "d80537182f9f4b0b85fc7d3b8f9b0ed5e51de3516e9cc1991ae12279ddb01693"
+}

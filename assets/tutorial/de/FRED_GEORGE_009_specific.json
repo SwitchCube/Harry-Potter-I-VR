@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_009",
+  "variant": "specific",
+  "text": "Lauf auf die Kante zu und drücke die Taste A am rechten Controller, um hinüberzuspringen.",
+  "seconds": 4.96,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "fa6df0f20cbca48c90710a7a589319a58fcb9b5645dcf5575cfa2b24d35819ef"
+}

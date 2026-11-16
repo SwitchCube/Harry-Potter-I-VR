@@ -1,0 +1,10 @@
+{
+  "id": "sprout_new_72",
+  "variant": "specific",
+  "text": "Sieh dir das korrekte Incendio-Symbol ganz genau an. Halte die rechte Triggertaste gedrückt und male das Symbol mit dem Controller nach. Lass die Taste wieder los, wenn du fertig bist.",
+  "seconds": 10.64,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "c657e4f2faf8af0aba861b786a03b77ba6fd1274c32c3fb505b1f72863e8daea"
+}

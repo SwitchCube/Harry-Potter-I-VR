@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_98",
+  "variant": "specific",
+  "text": "Beobachte meinen Zauberstab. Halte dann die rechte Triggertaste gedrückt und zeichne das Symbol mit dem Controller nach. Lass die Taste wieder los, wenn du fertig bist.",
+  "seconds": 10.08,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "f41f6b6bcf66f20edce78e0f19a659213e8fbd157c50917bdba48700e870ccbf"
+}

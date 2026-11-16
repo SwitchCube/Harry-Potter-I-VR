@@ -1,0 +1,128 @@
+{
+  "action_sets": [
+    {
+      "name": "/actions/game",
+      "usage": "single"
+    }
+  ],
+  "actions": [
+    {
+      "name": "/actions/game/in/move",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/turn",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/jump",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/cast",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/menu",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/recenter",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/confirm",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/left_hand",
+      "type": "pose",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/right_hand",
+      "type": "pose",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/out/haptic",
+      "type": "vibration"
+    },
+    {
+      "name": "/actions/game/in/left_grip",
+      "type": "pose",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/right_grip",
+      "type": "pose",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/game/in/show_health",
+      "type": "boolean",
+      "requirement": "suggested"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "bindings_touch.json"
+    },
+    {
+      "controller_type": "knuckles",
+      "binding_url": "bindings_index.json"
+    },
+    {
+      "controller_type": "pico_controller",
+      "binding_url": "bindings_pico.json"
+    },
+    {
+      "controller_type": "vive_focus3_controller",
+      "binding_url": "bindings_focus3.json"
+    }
+  ],
+  "localization": [
+    {
+      "language_tag": "en_US",
+      "/actions/game": "Harry Potter I VR",
+      "/actions/game/in/move": "Move",
+      "/actions/game/in/turn": "Turn",
+      "/actions/game/in/jump": "Jump",
+      "/actions/game/in/cast": "Cast",
+      "/actions/game/in/menu": "Menu",
+      "/actions/game/in/recenter": "Recenter",
+      "/actions/game/in/confirm": "Confirm",
+      "/actions/game/in/left_hand": "Left Hand",
+      "/actions/game/in/right_hand": "Right Hand",
+      "/actions/game/out/haptic": "Wand feedback",
+      "/actions/game/in/left_grip": "Left grip pose",
+      "/actions/game/in/right_grip": "Right grip pose",
+      "/actions/game/in/show_health": "Hold left grip to show health"
+    },
+    {
+      "language_tag": "de_DE",
+      "/actions/game": "Harry Potter I VR",
+      "/actions/game/in/move": "Laufen",
+      "/actions/game/in/turn": "Drehen",
+      "/actions/game/in/jump": "Springen",
+      "/actions/game/in/cast": "Zaubern",
+      "/actions/game/in/menu": "Men\u00fc",
+      "/actions/game/in/recenter": "Blick zentrieren",
+      "/actions/game/in/confirm": "Best\u00e4tigen",
+      "/actions/game/in/left_hand": "Linke Hand",
+      "/actions/game/in/right_hand": "Rechte Hand",
+      "/actions/game/out/haptic": "Stab-R\u00fcckmeldung",
+      "/actions/game/in/left_grip": "Linker Griffpunkt",
+      "/actions/game/in/right_grip": "Rechter Griffpunkt",
+      "/actions/game/in/show_health": "Handanzeige halten"
+    }
+  ]
+}

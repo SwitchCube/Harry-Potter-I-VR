@@ -1,0 +1,10 @@
+{
+  "id": "fred_george_new_128",
+  "variant": "generic",
+  "text": "To jump, press the highlighted jump button. It is highlighted on your controller.",
+  "seconds": 4.48,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "e864ea9a1933bd43c156e0d48e8e9a81c2d64f2bc570117d0cf33aa13f8930b4"
+}

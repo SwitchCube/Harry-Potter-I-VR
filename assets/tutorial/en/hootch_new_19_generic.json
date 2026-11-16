@@ -1,0 +1,10 @@
+{
+  "id": "hootch_new_19",
+  "variant": "generic",
+  "text": "Hold the highlighted casting button to accelerate. Hold the highlighted jump button to fly slowly and precisely.",
+  "seconds": 8.16,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "ec15c521fe12ff786ebbfe39e7497db9d2394a0195f3e712a63745cecb0faa7d"
+}

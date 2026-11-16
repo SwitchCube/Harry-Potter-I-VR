@@ -1,0 +1,10 @@
+{
+  "id": "hootch_new_18",
+  "variant": "specific",
+  "text": "Steuere deinen Besen mit dem linken Stick. Bewege ihn nach links oder rechts zum Lenken, nach vorne zum Steigen und nach hinten zum Sinken.",
+  "seconds": 9.68,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "3f8e0cd7215ec866d4a6337ef06f59a435a80872c3f10c39c57ea6d879d2fbb9"
+}

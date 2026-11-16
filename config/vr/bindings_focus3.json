@@ -1,0 +1,105 @@
+{
+  "controller_type": "vive_focus3_controller",
+  "name": "HP1 VR focus3",
+  "description": "HP1 VR prototype: left stick move, right stick turn, right trigger cast, A jump, B menu, X skip scene.",
+  "bindings": {
+    "/actions/game": {
+      "sources": [
+        {
+          "path": "/user/hand/left/input/joystick",
+          "mode": "joystick",
+          "inputs": {
+            "position": {
+              "output": "/actions/game/in/move"
+            },
+            "click": {
+              "output": "/actions/game/in/recenter"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/joystick",
+          "mode": "joystick",
+          "inputs": {
+            "position": {
+              "output": "/actions/game/in/turn"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/a",
+          "mode": "button",
+          "inputs": {
+            "click": {
+              "output": "/actions/game/in/jump"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/b",
+          "mode": "button",
+          "inputs": {
+            "click": {
+              "output": "/actions/game/in/menu"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/left/input/x",
+          "mode": "button",
+          "inputs": {
+            "click": {
+              "output": "/actions/game/in/confirm"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/trigger",
+          "mode": "trigger",
+          "inputs": {
+            "click": {
+              "output": "/actions/game/in/cast"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/left/input/grip",
+          "mode": "trigger",
+          "inputs": {
+            "click": {
+              "output": "/actions/game/in/show_health"
+            }
+          },
+          "parameters": {
+            "click_activate_threshold": "0.65",
+            "click_deactivate_threshold": "0.4"
+          }
+        }
+      ],
+      "poses": [
+        {
+          "path": "/user/hand/left/pose/openxr_aim",
+          "output": "/actions/game/in/left_hand"
+        },
+        {
+          "path": "/user/hand/right/pose/openxr_aim",
+          "output": "/actions/game/in/right_hand"
+        },
+        {
+          "path": "/user/hand/left/pose/handgrip",
+          "output": "/actions/game/in/left_grip"
+        },
+        {
+          "path": "/user/hand/right/pose/handgrip",
+          "output": "/actions/game/in/right_grip"
+        }
+      ],
+      "haptics": [
+        {
+          "output": "/actions/game/out/haptic",
+          "path": "/user/hand/right/output/haptic"
+        }
+      ]
+    }
+  }
+}

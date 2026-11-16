@@ -1,0 +1,10 @@
+{
+  "id": "fred_george_new_112",
+  "variant": "generic",
+  "text": "Wir brauchen fünfundzwanzig Bohnen, Harry. Komm zurück, wenn du sie alle gefunden hast. Halte die markierte Inventartaste gedrückt, um dein Inventar an der linken Hand zu sehen. Dort steht auch, wie viele Bohnen du schon gesammelt hast.",
+  "seconds": 12.08,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "34c160145833f63cadab0dba8c25277eeb9117078eaaa5bf0b502ea3c1824683"
+}

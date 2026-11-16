@@ -1,0 +1,10 @@
+{
+  "id": "fred_george_new_112",
+  "variant": "generic",
+  "text": "We need twenty-five beans, Harry. Come back when you have found them all. Hold the highlighted inventory button to see your inventory at your left hand. It also shows how many beans you have collected.",
+  "seconds": 10.240041666666666,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "80d316475598ea3567706c45b69f47cf4f10d9e2279e03d3d52477e437922c5d"
+}

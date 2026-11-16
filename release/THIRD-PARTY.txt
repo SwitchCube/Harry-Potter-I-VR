@@ -1,0 +1,28 @@
+Harry Potter I VR - Third-party components
+
+OpenVR: ValveSoftware/openvr, commit
+0924064316de3effbcd1acf1e309182a2deb1c05. See licenses/OpenVR-LICENSE.txt.
+https://github.com/ValveSoftware/openvr
+
+MinHook: TsudaKageyu/minhook, commit
+c3fcafdc10146beb5919319d0683e44e3c30d537. Linked into the native mod DLL.
+See licenses/MinHook-LICENSE.txt.
+https://github.com/TsudaKageyu/minhook
+
+Python 3.13.13, official Windows x86 embeddable distribution.
+See python/LICENSE.txt for Python and its bundled component notices.
+https://www.python.org/
+
+The build uses Zig 0.15.2; the compiler is not included in this release.
+Dependency URLs and SHA-256 hashes are recorded in the source repository.
+
+Tutorial speech was synthesized locally with
+Qwen/Qwen3-TTS-12Hz-1.7B-Base using installed character recordings as voice
+references. These are synthetic instructions, not new performances by the
+original actors. Original reference recordings and model weights are not
+included. Building from source reuses the included synthetic WAVs and does
+not require a voice service or an API key.
+
+No original game files are distributed. A supported, separately owned game
+installation is required. Game names and original assets remain the property
+of their respective rights holders. This is an unofficial fan project.

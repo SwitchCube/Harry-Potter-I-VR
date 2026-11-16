@@ -1,0 +1,10 @@
+{
+  "id": "QUIRRELL_015",
+  "variant": "generic",
+  "text": "Hold the highlighted casting button and aim your wand at the target with your controller. Release the button to cast the spell.",
+  "seconds": 6.88,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "29214f17bcf0015d6cdd0b9f2d3dcb4e46aeaf8e01bff48574737ba0a2188fbc"
+}

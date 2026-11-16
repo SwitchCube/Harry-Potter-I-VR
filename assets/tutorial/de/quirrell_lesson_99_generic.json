@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_99",
+  "variant": "generic",
+  "text": "Dies ist das Symbol für den Flipendo-Zauber. Halte die markierte Zaubertaste gedrückt und zeichne das Symbol mit dem Controller nach. Lass dann die Taste einfach los.",
+  "seconds": 12.08,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "33123d7dfed051dc75e871884e940ecf61ce92beffda4f3b6d443ffd46e5b99f"
+}

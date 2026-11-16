@@ -1,0 +1,10 @@
+{
+  "id": "flitwick_chall_6",
+  "variant": "specific",
+  "text": "Move the floating statue onto the plate with the left stick.",
+  "seconds": 3.52,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "d64c9488145359d8c4ae855d42438a667888450ba2ad25fdcf5897df79aee386"
+}

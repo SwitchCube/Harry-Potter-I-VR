@@ -1,0 +1,10 @@
+{
+  "id": "FLITWICK_015",
+  "variant": "generic",
+  "text": "Verwende Wingardium Leviosa bei dieser Statue. Bewege sie mit dem markierten Stick auf den großen Teller. Beeil dich!",
+  "seconds": 8.32,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "d9dcf1292c0c29bf0e42a91dd5a1e43305902d05c68c26d5effeb31ff7f5971a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_99",
+  "variant": "specific",
+  "text": "This is the symbol for the Flipendo spell. Hold the right trigger and trace the symbol with your controller. Then release the button.",
+  "seconds": 10.56,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "af5efe53f0b2b3665becd80ff4eb8ea8d22adaa81aaf4a50271900f50e7cb9d3"
+}

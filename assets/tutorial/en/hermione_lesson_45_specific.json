@@ -1,0 +1,10 @@
+{
+  "id": "hermione_lesson_45",
+  "variant": "specific",
+  "text": "This is the symbol for the Alohomora spell. When I finish, hold the right trigger and trace the symbol with your controller. Release the button when you are finished.",
+  "seconds": 9.28,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "0a8e0cd6d366f5a82791e92e53c839832fd60c9bd4e7b8498aa2b8a9dd86e9ae"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "QUIRRELL_015",
+  "variant": "generic",
+  "text": "Halte die markierte Zaubertaste gedrückt und richte den Zauberstab mit dem Controller auf dein Ziel. Lass die Taste los, um den Zauber anzuwenden.",
+  "seconds": 9.04,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "79ff0317ec2c4e9f874b4586e4a42931b59068ab14cc9b9e4af28e278f4b2211"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "language": "ger",
+  "voice_model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "description": "Local synthetic VR adaptations using the corresponding installed German character recording as voice reference. Not original actor recordings.",
+  "labels": {
+    "specific": {"cast": "rechte Triggertaste", "jump": "Taste A am rechten Controller", "move": "linken Stick", "show_health": "untere Grifftaste am linken Controller"},
+    "generic": {"cast": "markierte Zaubertaste", "jump": "markierte Sprungtaste", "move": "markierten Stick", "show_health": "markierte Inventartaste"}
+  },
+  "lines": [
+    {"id":"FLITWICK_015", "actions":["move"], "text":"Verwende Wingardium Leviosa bei dieser Statue. Bewege sie mit dem {move} auf den großen Teller. Beeil dich!"},
+    {"id":"flitwick_chall_6", "actions":["move"], "text":"Bewege die schwebende Statue mit dem {move} auf den Teller."},
+    {"id":"flitwick_lesson_40", "actions":["cast"], "text":"Sieh dir das Wingardium Leviosa-Symbol, das ich dir nun vormache, ganz genau an. Sobald ich fertig bin, halte die {cast} gedrückt und male das Symbol mit dem Controller nach. Lass die Taste erst wieder los, wenn du fertig bist."},
+    {"id":"FRED_GEORGE_009", "actions":["jump"], "text":"Lauf auf die Kante zu und drücke die {jump}, um hinüberzuspringen."},
+    {"id":"FRED_GEORGE_012", "actions":["jump"], "text":"Laufe auf die Kante zu und drücke die {jump}, um hinüberzuspringen. Wenn du runterfällst, kannst du wieder nach oben klettern und es erneut versuchen."},
+    {"id":"fred_george_new_128", "actions":["jump"], "text":"Zum Springen drückst du die {jump}. Sie wird direkt am Controller hervorgehoben."},
+    {"id":"hermione_lesson_45", "actions":["cast"], "text":"Das ist das Symbol für den Alohomora-Zauber. Wenn ich fertig bin, hältst du die {cast} gedrückt und malst das Symbol mit dem Controller nach. Lass die Taste einfach wieder los, wenn du fertig bist."},
+    {"id":"hootch_new_18", "actions":["move"], "text":"Steuere deinen Besen mit dem {move}. Bewege ihn nach links oder rechts zum Lenken, nach vorne zum Steigen und nach hinten zum Sinken."},
+    {"id":"hootch_new_19", "actions":["cast","jump"], "text":"Halte die {cast} zum Beschleunigen. Halte die {jump}, um langsam und genau zu fliegen."},
+    {"id":"hootch_new_20", "actions":["move"], "text":"Lass den {move} los, um wieder waagerecht zu fliegen. Du kannst dich dabei frei umsehen."},
+    {"id":"QUIRRELL_015", "actions":["cast"], "text":"Halte die {cast} gedrückt und richte den Zauberstab mit dem Controller auf dein Ziel. Lass die Taste los, um den Zauber anzuwenden."},
+    {"id":"QUIRRELL_038", "actions":["cast"], "text":"Halte die {cast} gedrückt und richte den Zauberstab mit dem Controller auf dein Ziel. Lass die Taste los, um den Zauber anzuwenden. Du kannst den Zauber an diesem schluckenden Wasserspeier üben."},
+    {"id":"quirrell_lesson_98", "actions":["cast"], "text":"Beobachte meinen Zauberstab. Halte dann die {cast} gedrückt und zeichne das Symbol mit dem Controller nach. Lass die Taste wieder los, wenn du fertig bist."},
+    {"id":"quirrell_lesson_99", "actions":["cast"], "text":"Dies ist das Symbol für den Flipendo-Zauber. Halte die {cast} gedrückt und zeichne das Symbol mit dem Controller nach. Lass dann die Taste einfach los."},
+    {"id":"sprout_new_72", "actions":["cast"], "text":"Sieh dir das korrekte Incendio-Symbol ganz genau an. Halte die {cast} gedrückt und male das Symbol mit dem Controller nach. Lass die Taste wieder los, wenn du fertig bist."},
+    {"id":"fred_george_new_112", "actions":["show_health"], "text":"Wir brauchen fünfundzwanzig Bohnen, Harry. Komm zurück, wenn du sie alle gefunden hast. Halte die {show_health} gedrückt, um dein Inventar an der linken Hand zu sehen. Dort steht auch, wie viele Bohnen du schon gesammelt hast."}
+  ]
+}

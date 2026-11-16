@@ -1,0 +1,10 @@
+{
+  "id": "hermione_lesson_45",
+  "variant": "generic",
+  "text": "Das ist das Symbol für den Alohomora-Zauber. Wenn ich fertig bin, hältst du die markierte Zaubertaste gedrückt und malst das Symbol mit dem Controller nach. Lass die Taste einfach wieder los, wenn du fertig bist.",
+  "seconds": 11.36,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "86d04528c7b3421547e4c831a2a62a3770811f73a02b3540508a6291b8f034e4"
+}

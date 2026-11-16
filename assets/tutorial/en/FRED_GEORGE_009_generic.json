@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_009",
+  "variant": "generic",
+  "text": "Run towards the ledge and press the highlighted jump button to jump across.",
+  "seconds": 4.0,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "16b262e969237c87d658458e467e4be8854253c2852c542d4964559d1055b47c"
+}

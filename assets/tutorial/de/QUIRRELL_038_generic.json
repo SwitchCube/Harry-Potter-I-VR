@@ -1,0 +1,10 @@
+{
+  "id": "QUIRRELL_038",
+  "variant": "generic",
+  "text": "Halte die markierte Zaubertaste gedrückt und richte den Zauberstab mit dem Controller auf dein Ziel. Lass die Taste los, um den Zauber anzuwenden. Du kannst den Zauber an diesem schluckenden Wasserspeier üben.",
+  "seconds": 11.68,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "6ad9eb5481ab6d77e800176d2de770ff8ad4593f03dd05eeb759ebd4d8bde995"
+}

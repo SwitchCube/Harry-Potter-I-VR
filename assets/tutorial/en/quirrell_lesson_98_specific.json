@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_98",
+  "variant": "specific",
+  "text": "Watch my wand. Then hold the right trigger and trace the symbol with your controller. Release the button when you are finished.",
+  "seconds": 8.4,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "cdc3f93fa24172961b5dbf7166bc17f7bd5052dc66e3f2ae3219b9001583a8f7"
+}

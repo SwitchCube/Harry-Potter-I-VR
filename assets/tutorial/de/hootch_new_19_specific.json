@@ -1,0 +1,10 @@
+{
+  "id": "hootch_new_19",
+  "variant": "specific",
+  "text": "Halte die rechte Triggertaste zum Beschleunigen. Halte die Taste A am rechten Controller, um langsam und genau zu fliegen.",
+  "seconds": 8.32,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "d8264ef34208d9424028833aedc482064da5e187c12438608517364db0446352"
+}

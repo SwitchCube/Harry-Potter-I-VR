@@ -1,0 +1,10 @@
+{
+  "id": "flitwick_lesson_40",
+  "variant": "specific",
+  "text": "Sieh dir das Wingardium Leviosa-Symbol, das ich dir nun vormache, ganz genau an. Sobald ich fertig bin, halte die rechte Triggertaste gedrückt und male das Symbol mit dem Controller nach. Lass die Taste erst wieder los, wenn du fertig bist.",
+  "seconds": 14.72,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "b26605ed635f1645a703d36e5bd73c6de22509c8902558aa5830b259c28ef3d9"
+}

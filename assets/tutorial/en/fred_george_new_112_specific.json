@@ -1,0 +1,10 @@
+{
+  "id": "fred_george_new_112",
+  "variant": "specific",
+  "text": "We need twenty-five beans, Harry. Come back when you have found them all. Hold the lower grip button on your left controller to see your inventory at your left hand. It also shows how many beans you have collected.",
+  "seconds": 10.32,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "9a55e69f0cdf0e793933bb4b109fae09bb9c312995ace4bc89599673f2d2d384"
+}

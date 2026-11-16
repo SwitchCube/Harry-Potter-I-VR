@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_98",
+  "variant": "generic",
+  "text": "Watch my wand. Then hold the highlighted casting button and trace the symbol with your controller. Release the button when you are finished.",
+  "seconds": 8.48,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "cced9b3782b1c727d9bb3a433e275db2e961cde5ea88e33c305df57f3be0c671"
+}

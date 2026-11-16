@@ -1,0 +1,10 @@
+{
+  "id": "hootch_new_20",
+  "variant": "specific",
+  "text": "Lass den linken Stick los, um wieder waagerecht zu fliegen. Du kannst dich dabei frei umsehen.",
+  "seconds": 6.16,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "b79b35924e6ef5cf7d5524fea4c7bfb7fb757f0cca77bf8595c7694f5f7cca4f"
+}

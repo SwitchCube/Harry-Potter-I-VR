@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_012",
+  "variant": "generic",
+  "text": "Laufe auf die Kante zu und drücke die markierte Sprungtaste, um hinüberzuspringen. Wenn du runterfällst, kannst du wieder nach oben klettern und es erneut versuchen.",
+  "seconds": 7.44,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "3ef5feb6723d4aca0fcf1af87c589ffc3593d1e82b18426261f48ad7369ea963"
+}

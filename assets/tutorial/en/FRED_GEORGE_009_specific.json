@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_009",
+  "variant": "specific",
+  "text": "Run towards the ledge and press the A button on your right controller to jump across.",
+  "seconds": 4.4,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "7bd5c7c5358f624b3492401497411b09d3730a74f87444e1c89f2414f1a6b4bd"
+}

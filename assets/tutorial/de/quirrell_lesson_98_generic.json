@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_98",
+  "variant": "generic",
+  "text": "Beobachte meinen Zauberstab. Halte dann die markierte Zaubertaste gedrückt und zeichne das Symbol mit dem Controller nach. Lass die Taste wieder los, wenn du fertig bist.",
+  "seconds": 12.16,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "b3aaeb7724ed41964b313ec221e7f3ebed2c508d9166078f682143514c17a32a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "FLITWICK_015",
+  "variant": "specific",
+  "text": "Use Wingardium Leviosa on this statue. Move it onto the large plate with the left stick. Hurry!",
+  "seconds": 7.04,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "3c8255aca486332f7f03dc974ce9976da7b866ad84d7b285621d8d9253c9d2a2"
+}

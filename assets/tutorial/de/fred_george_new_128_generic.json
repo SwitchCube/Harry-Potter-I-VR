@@ -1,0 +1,10 @@
+{
+  "id": "fred_george_new_128",
+  "variant": "generic",
+  "text": "Zum Springen drückst du die markierte Sprungtaste. Sie wird direkt am Controller hervorgehoben.",
+  "seconds": 4.88,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "93b07dedfb3bd68b1b5a0f7e39fbb64f7fa19c790c3b8695ae18b094cfc31ea7"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "quirrell_lesson_99",
+  "variant": "specific",
+  "text": "Dies ist das Symbol für den Flipendo-Zauber. Halte die rechte Triggertaste gedrückt und zeichne das Symbol mit dem Controller nach. Lass dann die Taste einfach los.",
+  "seconds": 10.32,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "f447f4eb53d4ab096ddfd3dbaf5fd6e9165b1803d45f7d4ecfd87a0886927970"
+}

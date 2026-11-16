@@ -1,0 +1,10 @@
+{
+  "id": "sprout_new_72",
+  "variant": "generic",
+  "text": "Watch the correct Incendio symbol carefully. Hold the highlighted casting button and trace the symbol with your controller. Release the button when you are finished.",
+  "seconds": 9.68,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "7d46cf5db71b12e6ab7a56ad215f1992a6da8332652fbab670bd9b2796e80703"
+}

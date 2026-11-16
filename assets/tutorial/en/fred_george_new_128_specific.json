@@ -1,0 +1,10 @@
+{
+  "id": "fred_george_new_128",
+  "variant": "specific",
+  "text": "To jump, press the A button on your right controller. It is highlighted on your controller.",
+  "seconds": 6.0,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "21a09b236f63340e158628d169de51e9a77580b5fb90855a9547b7b5944fa703"
+}

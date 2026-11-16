@@ -1,0 +1,50 @@
+{
+  "game": "HP1",
+  "targets": [
+    {
+      "label": "Tick",
+      "module": "Engine.dll",
+      "export": "?Tick@UGameEngine@@UAEXM@Z",
+      "export_rva": 14856,
+      "entry_rva": 656864,
+      "thunk": "e9d3cb0900",
+      "sha256": "9207af078045adbd672adfa54f91b177013b80afbd730c246a87c19e2ecf6d0e"
+    },
+    {
+      "label": "ComputeRenderCoords",
+      "module": "Engine.dll",
+      "export": "?ComputeRenderCoords@FSceneNode@@QAEXAAVFVector@@AAVFRotator@@@Z",
+      "export_rva": 6476,
+      "entry_rva": 536400,
+      "thunk": "e9ff150800",
+      "sha256": "9207af078045adbd672adfa54f91b177013b80afbd730c246a87c19e2ecf6d0e"
+    },
+    {
+      "label": "DrawWorld",
+      "module": "Render.dll",
+      "export": "?DrawWorld@URender@@UAEXPAUFSceneNode@@@Z",
+      "export_rva": 4201,
+      "entry_rva": 161888,
+      "thunk": "e9f2670200",
+      "sha256": "d7ec0ac7f6c246ea8c2fe5c91a347734e7d761f31dd9e1cb703d5c0779a6d95a"
+    },
+    {
+      "label": "OccludeFrame",
+      "module": "Render.dll",
+      "export": "?OccludeFrame@URender@@QAEXPAUFSceneNode@@@Z",
+      "export_rva": 4116,
+      "entry_rva": 151296,
+      "thunk": "e9e73e0200",
+      "sha256": "d7ec0ac7f6c246ea8c2fe5c91a347734e7d761f31dd9e1cb703d5c0779a6d95a"
+    }
+  ],
+  "profile": {
+    "module": "Core.dll",
+    "export": "?appUserDir@@YAPBGXZ",
+    "export_rva": 6326,
+    "entry_rva": 479120,
+    "thunk": "e9d5360700",
+    "sha256": "651c9c5c6c9106d66d0a06b365157bfd5292448de1d7cb21ec16575701ca4b99",
+    "cache_rva": 1369872
+  }
+}

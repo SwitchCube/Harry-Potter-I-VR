@@ -1,0 +1,10 @@
+{
+  "id": "hootch_new_18",
+  "variant": "generic",
+  "text": "Steer your broom with the highlighted stick. Move it left or right to turn, forwards to climb, and backwards to descend.",
+  "seconds": 7.6,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "93b7f3107c70572dd212b0297c2e6d4c6fe98c0a4f8f0493213f247a0b9683b4"
+}

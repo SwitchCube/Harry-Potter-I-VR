@@ -1,0 +1,10 @@
+{
+  "id": "fred_george_new_128",
+  "variant": "specific",
+  "text": "Zum Springen drückst du die Taste A am rechten Controller. Sie wird direkt am Controller hervorgehoben.",
+  "seconds": 6.0,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "9dc746c4757e1edc71ceed4054ec68092687cfdab05e2b1c9dc0b791516ad295"
+}

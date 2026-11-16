@@ -1,0 +1,154 @@
+{
+  "copied_utc": "2026-09-21T19:03:15.119924+00:00",
+  "items": [
+    {
+      "path": "scripts/project_paths.py",
+      "source_project": "Harry Potter II VR",
+      "source_path": "scripts/project_paths.py",
+      "sha256": "905cc60900c57d3ca81736689bb68a539ec8ca92d50ff6881f6e60143799d912"
+    },
+    {
+      "path": "scripts/inspect_pe.py",
+      "source_project": "Harry Potter II VR",
+      "source_path": "scripts/inspect_pe.py",
+      "sha256": "185807e9f908a754426f7e94d0dc50facd0457bc0b9aab9c90405c1308ab99cf"
+    },
+    {
+      "path": "src/vr_math.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_math.h",
+      "sha256": "eac5767abc492d0fb85be39e2b80bef385d778b667f3c8e51dfdfd2f7854c11b"
+    },
+    {
+      "path": "src/vr_pixels.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_pixels.h",
+      "sha256": "afe1e13d3f582ffedbec50c518e197f38d6ea662fa24a05e6fa86e92815439d5"
+    },
+    {
+      "path": "src/vr_hud_capture.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_hud_capture.h",
+      "sha256": "b5891ca68007fdfe46933c2d2407d6484f0803a5540a1458f5c70e202867b184"
+    },
+    {
+      "path": "src/vr_runtime.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_runtime.h",
+      "sha256": "fe0b4702b88aae57ca1bb243e3c011e31a7250db66c30b70457a3a15140dd77e"
+    },
+    {
+      "path": "src/vr_bridge.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_bridge.h",
+      "sha256": "97988f787d6ce5345eef823e97f2be458b1b5acbfd94619f7e21ca56716055cb"
+    },
+    {
+      "path": "tests/vr_math_tests.cpp",
+      "source_project": "Harry Potter II VR",
+      "source_path": "tests/vr_math_tests.cpp",
+      "sha256": "37d64b3e3fd2074d2b98777b720aa85bd12919b710eaa606b0d537ae42c48d85"
+    },
+    {
+      "path": "tests/vr_pixels_tests.cpp",
+      "source_project": "Harry Potter II VR",
+      "source_path": "tests/vr_pixels_tests.cpp",
+      "sha256": "e5dc047029f131d4b1f8130fd5eb1828933d5f5e355d746239004334b50f0deb"
+    },
+    {
+      "path": "tests/vr_hud_capture_tests.cpp",
+      "source_project": "Harry Potter II VR",
+      "source_path": "tests/vr_hud_capture_tests.cpp",
+      "sha256": "c538af6eb2bc3f8dbd9c735085e9eba563a779f5d5e5407879f1a09f2945ba09"
+    },
+    {
+      "path": "external/minhook",
+      "source_project": "Harry Potter II VR",
+      "source_path": "external/minhook"
+    },
+    {
+      "path": "external/openvr",
+      "source_project": "Harry Potter II VR",
+      "source_path": "external/openvr"
+    },
+    {
+      "path": "external/python",
+      "source_project": "Harry Potter II VR",
+      "source_path": "external/python"
+    },
+    {
+      "path": "src/vr_profile.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_profile.h",
+      "source_sha256": "59797323124c5ceb9ca846358226c4ef80b049365a6c6e5b7ae99754bf9fe592",
+      "adapted_for": "HP1"
+    },
+    {
+      "path": "src/vr_wand_pose.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_wand_pose.h",
+      "source_sha256": "63a9b88610d618cba25a4a715f49b1a13fa8bb1671f9b81de09fe75578d7d30f",
+      "adapted_for": "HP1"
+    },
+    {
+      "path": "src/vr_menu.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_menu.h",
+      "source_sha256": "a2c58dd38b7a1c8139b14e2fa11c9de5ca915f16ea7c244c6287604f40e99368",
+      "adapted_for": "HP1"
+    },
+    {
+      "path": "src/native_inject.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/native_inject.h",
+      "source_sha256": "4a5b8583c429cd205efb69344793a180792d201858ce2cab89a6830f7924cd50",
+      "adapted_for": "HP1"
+    },
+    {
+      "path": "src/vr_native_api.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_native_api.h",
+      "source_sha256": "cb1d68ce0ff7ce49a127e5a2d7cff8e46a5c67675d23ff1835c952ca6e2f09d8",
+      "adapted_for": "HP1"
+    },
+    {
+      "path": "src/engine_observer.cpp",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/engine_observer.cpp",
+      "source_sha256": "d1f1b6104f01c6809abd562a0edc5bda227d8c4b7cad56afb752576138a09226",
+      "adapted_for": "HP1"
+    },
+    {
+      "path": "config/vr/actions.json",
+      "source_project": "Harry Potter II VR",
+      "adapted_for": "HP1 action subset; all bindings stored locally"
+    },
+    {
+      "path": "config/vr/bindings_focus3.json",
+      "source_project": "Harry Potter II VR",
+      "adapted_for": "HP1 action subset; all bindings stored locally"
+    },
+    {
+      "path": "config/vr/bindings_index.json",
+      "source_project": "Harry Potter II VR",
+      "adapted_for": "HP1 action subset; all bindings stored locally"
+    },
+    {
+      "path": "config/vr/bindings_pico.json",
+      "source_project": "Harry Potter II VR",
+      "adapted_for": "HP1 action subset; all bindings stored locally"
+    },
+    {
+      "path": "config/vr/bindings_touch.json",
+      "source_project": "Harry Potter II VR",
+      "adapted_for": "HP1 action subset; all bindings stored locally"
+    },
+    {
+      "path": "src/vr_panel.h",
+      "source_project": "Harry Potter II VR",
+      "source_path": "src/vr_panel.h",
+      "sha256": "f3ecce556b49676b88d5beb1704f651017faa1b5c85656ab75b6f95af119d07b"
+    }
+  ],
+  "note": "Reference copies only. No HP2 game-specific offsets or game assets are reused."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_012",
+  "variant": "specific",
+  "text": "Run towards the ledge and press the A button on your right controller to jump across. If you fall, you can climb back up and try again.",
+  "seconds": 6.88,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "1dc981e0bd4fbc86b3975de9d10b1afe65cd166bc409d2f5e1d5299afea0d18d"
+}

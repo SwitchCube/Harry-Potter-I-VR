@@ -1,0 +1,10 @@
+{
+  "id": "QUIRRELL_038",
+  "variant": "generic",
+  "text": "Hold the highlighted casting button and aim your wand at the target with your controller. Release the button to cast the spell. You can practise on this gargoyle.",
+  "seconds": 10.88,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "9f57612bb9081eb1514d32ebfa4745098ca117c4a794e99769a157157b94c28e"
+}

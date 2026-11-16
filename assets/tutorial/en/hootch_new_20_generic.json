@@ -1,0 +1,10 @@
+{
+  "id": "hootch_new_20",
+  "variant": "generic",
+  "text": "Release the highlighted stick to return to level flight. You can look around freely.",
+  "seconds": 5.44,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "ada4a0b003b8e25980f525855cacb7a0a487b90fcf9c36d80523497baf25fceb"
+}

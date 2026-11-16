@@ -1,0 +1,10 @@
+{
+  "id": "hootch_new_19",
+  "variant": "specific",
+  "text": "Hold the right trigger to accelerate. Hold the A button on your right controller to fly slowly and precisely.",
+  "seconds": 7.36,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "7aad5212091c9df3f08f01cc864e2e120eb85585bf13683448bfdca0b5c8cdde"
+}

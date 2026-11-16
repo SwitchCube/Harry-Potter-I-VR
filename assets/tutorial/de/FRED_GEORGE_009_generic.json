@@ -1,0 +1,10 @@
+{
+  "id": "FRED_GEORGE_009",
+  "variant": "generic",
+  "text": "Lauf auf die Kante zu und drücke die markierte Sprungtaste, um hinüberzuspringen.",
+  "seconds": 4.16,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "d609f6c3f6e8c2f09848276d088c608c0b01c9054a0a43b5b91901f2f3d15f91"
+}

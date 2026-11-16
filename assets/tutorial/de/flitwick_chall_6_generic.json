@@ -1,0 +1,10 @@
+{
+  "id": "flitwick_chall_6",
+  "variant": "generic",
+  "text": "Bewege die schwebende Statue mit dem markierten Stick auf den Teller.",
+  "seconds": 4.32,
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "synthetic": true,
+  "local_reference": true,
+  "sha256": "7766ee9b0851ee4c3783d417bfb51860ff7581b403695213340ff782222fbba7"
+}
